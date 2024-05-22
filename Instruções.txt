@@ -1,0 +1,6 @@
+Instruções de uso do programa Jogo da Velha
+
+1- Abra o programa "Jogo da velha.pyw" com o interpretador do Python;
+OBS: Caso você não tenha o IDLE (interpretador do Python), baixe-o no site https://www.python.org
+
+2- Marque o X ou O (círculo) nos espaços livres, quem fechar 3 seguidos ganha.
